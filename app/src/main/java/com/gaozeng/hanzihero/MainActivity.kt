@@ -15,7 +15,6 @@ import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
@@ -199,11 +198,20 @@ fun MainScreen(
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.spacedBy(16.dp)
         ) {
+            Text(
+                text = "请选择课程（人教版）",
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(bottom = 4.dp),
+                textAlign = TextAlign.Start,
+                fontSize = 14.sp,
+                color = Color.Gray
+            )
             // Lesson selection UI
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .height(200.dp) // Fixed height for the selection area
+                    .weight(1f) // Use weight instead of fixed height
                     .border(1.dp, Color.Gray),
                 horizontalArrangement = Arrangement.spacedBy(8.dp)
             ) {
@@ -310,7 +318,7 @@ fun QuizScreen(
             )
             Text(
                 text = character.toString(),
-                fontSize = 200.sp,
+                fontSize = 220.sp,
                 fontWeight = FontWeight.Bold
             )
 
