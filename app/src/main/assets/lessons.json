@@ -1,0 +1,1269 @@
+[
+  {
+    "grade": 1,
+    "terms": [
+      {
+        "term": "上",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "title": "我上学了",
+            "characters": [
+              {"char": "天", "type": "writing"},
+              {"char": "地", "type": "writing"},
+              {"char": "人", "type": "writing"},
+              {"char": "你", "type": "writing"},
+              {"char": "我", "type": "writing"},
+              {"char": "他", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 2,
+            "title": "金木水火土",
+            "characters": [
+              {"char": "一", "type": "writing"},
+              {"char": "二", "type": "writing"},
+              {"char": "三", "type": "writing"},
+              {"char": "四", "type": "writing"},
+              {"char": "五", "type": "writing"},
+              {"char": "上", "type": "writing"},
+              {"char": "下", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 3,
+            "title": "口耳目",
+            "characters": [
+              {"char": "口", "type": "writing"},
+              {"char": "耳", "type": "writing"},
+              {"char": "目", "type": "writing"},
+              {"char": "手", "type": "writing"},
+              {"char": "足", "type": "writing"},
+              {"char": "站", "type": "writing"},
+              {"char": "坐", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 4,
+            "title": "日月水火",
+            "characters": [
+              {"char": "日", "type": "writing"},
+              {"char": "月", "type": "writing"},
+              {"char": "水", "type": "writing"},
+              {"char": "火", "type": "writing"},
+              {"char": "山", "type": "writing"},
+              {"char": "石", "type": "writing"},
+              {"char": "田", "type": "writing"},
+              {"char": "禾", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 5,
+            "title": "对韵歌",
+            "characters": [
+              {"char": "云", "type": "writing"},
+              {"char": "雨", "type": "writing"},
+              {"char": "雪", "type": "writing"},
+              {"char": "风", "type": "writing"},
+              {"char": "花", "type": "writing"},
+              {"char": "鸟", "type": "writing"},
+              {"char": "虫", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 6,
+            "title": "画",
+            "characters": [
+              {"char": "远", "type": "writing"},
+              {"char": "近", "type": "writing"},
+              {"char": "有", "type": "writing"},
+              {"char": "无", "type": "writing"},
+              {"char": "色", "type": "writing"},
+              {"char": "声", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 7,
+            "title": "大小多少",
+            "characters": [
+              {"char": "大", "type": "writing"},
+              {"char": "小", "type": "writing"},
+              {"char": "多", "type": "writing"},
+              {"char": "少", "type": "writing"},
+              {"char": "牛", "type": "writing"},
+              {"char": "果", "type": "writing"},
+              {"char": "鸟", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 8,
+            "title": "小书包",
+            "characters": [
+              {"char": "书", "type": "writing"},
+              {"char": "包", "type": "writing"},
+              {"char": "尺", "type": "writing"},
+              {"char": "作", "type": "writing"},
+              {"char": "业", "type": "writing"},
+              {"char": "本", "type": "writing"},
+              {"char": "笔", "type": "writing"},
+              {"char": "刀", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 9,
+            "title": "升国旗",
+            "characters": [
+              {"char": "升", "type": "writing"},
+              {"char": "国", "type": "writing"},
+              {"char": "旗", "type": "writing"},
+              {"char": "中", "type": "writing"},
+              {"char": "红", "type": "writing"},
+              {"char": "歌", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 10,
+            "title": "影子",
+            "characters": [
+              {"char": "影", "type": "writing"},
+              {"char": "前", "type": "writing"},
+              {"char": "后", "type": "writing"},
+              {"char": "左", "type": "writing"},
+              {"char": "右", "type": "writing"},
+              {"char": "它", "type": "writing"},
+              {"char": "好", "type": "writing"},
+              {"char": "朋", "type": "writing"},
+              {"char": "友", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 11,
+            "title": "比尾巴",
+            "characters": [
+              {"char": "比", "type": "writing"},
+              {"char": "尾", "type": "writing"},
+              {"char": "巴", "type": "writing"},
+              {"char": "长", "type": "writing"},
+              {"char": "短", "type": "writing"},
+              {"char": "把", "type": "writing"},
+              {"char": "伞", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 12,
+            "title": "青蛙写诗",
+            "characters": [
+              {"char": "青", "type": "writing"},
+              {"char": "蛙", "type": "writing"},
+              {"char": "写", "type": "writing"},
+              {"char": "诗", "type": "writing"},
+              {"char": "点", "type": "writing"},
+              {"char": "要", "type": "writing"},
+              {"char": "过", "type": "writing"},
+              {"char": "给", "type": "writing"},
+              {"char": "当", "type": "writing"},
+              {"char": "串", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 13,
+            "title": "雨点儿",
+            "characters": [
+              {"char": "问", "type": "writing"},
+              {"char": "谁", "type": "writing"},
+              {"char": "数", "type": "writing"},
+              {"char": "彩", "type": "writing"},
+              {"char": "半", "type": "writing"},
+              {"char": "空", "type": "writing"},
+              {"char": "到", "type": "writing"},
+              {"char": "方", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 14,
+            "title": "小蜗牛",
+            "characters": [
+              {"char": "回", "type": "writing"},
+              {"char": "全", "type": "writing"},
+              {"char": "变", "type": "writing"},
+              {"char": "芽", "type": "writing"},
+              {"char": "爬", "type": "writing"},
+              {"char": "呀", "type": "writing"},
+              {"char": "久", "type": "writing"}
+            ]
+          }
+        ]
+      },
+      {
+        "term": "下",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "title": "春夏秋冬",
+            "characters": [
+              {"char": "春", "type": "writing"},
+              {"char": "夏", "type": "writing"},
+              {"char": "秋", "type": "writing"},
+              {"char": "冬", "type": "writing"},
+              {"char": "风", "type": "writing"},
+              {"char": "雪", "type": "writing"},
+              {"char": "花", "type": "writing"},
+              {"char": "飞", "type": "writing"},
+              {"char": "入", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 2,
+            "title": "姓氏歌",
+            "characters": [
+              {"char": "姓", "type": "writing"},
+              {"char": "什", "type": "writing"},
+              {"char": "么", "type": "writing"},
+              {"char": "双", "type": "writing"},
+              {"char": "国", "type": "writing"},
+              {"char": "王", "type": "writing"},
+              {"char": "方", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 3,
+            "title": "小青蛙",
+            "characters": [
+              {"char": "青", "type": "writing"},
+              {"char": "清", "type": "writing"},
+              {"char": "气", "type": "writing"},
+              {"char": "晴", "type": "writing"},
+              {"char": "情", "type": "writing"},
+              {"char": "请", "type": "writing"},
+              {"char": "生", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 4,
+            "title": "猜字谜",
+            "characters": [
+              {"char": "字", "type": "writing"},
+              {"char": "左", "type": "writing"},
+              {"char": "右", "type": "writing"},
+              {"char": "红", "type": "writing"},
+              {"char": "时", "type": "writing"},
+              {"char": "动", "type": "writing"},
+              {"char": "万", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 5,
+            "title": "吃水不忘挖井人",
+            "characters": [
+              {"char": "吃", "type": "writing"},
+              {"char": "叫", "type": "writing"},
+              {"char": "主", "type": "writing"},
+              {"char": "江", "type": "writing"},
+              {"char": "住", "type": "writing"},
+              {"char": "没", "type": "writing"},
+              {"char": "以", "type": "writing"},
+              {"char": "会", "type": "writing"},
+              {"char": "走", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 6,
+            "title": "我多想去看看",
+            "characters": [
+              {"char": "北", "type": "writing"},
+              {"char": "京", "type": "writing"},
+              {"char": "门", "type": "writing"},
+              {"char": "广", "type": "writing"},
+              {"char": "想", "type": "writing"},
+              {"char": "告", "type": "writing"},
+              {"char": "诉", "type": "writing"},
+              {"char": "路", "type": "writing"},
+              {"char": "安", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 7,
+            "title": "一个接一个",
+            "characters": [
+              {"char": "接", "type": "writing"},
+              {"char": "觉", "type": "writing"},
+              {"char": "再", "type": "writing"},
+              {"char": "做", "type": "writing"},
+              {"char": "各", "type": "writing"},
+              {"char": "种", "type": "writing"},
+              {"char": "样", "type": "writing"},
+              {"char": "伙", "type": "writing"},
+              {"char": "伴", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 8,
+            "title": "四个太阳",
+            "characters": [
+              {"char": "太", "type": "writing"},
+              {"char": "阳", "type": "writing"},
+              {"char": "道", "type": "writing"},
+              {"char": "送", "type": "writing"},
+              {"char": "忙", "type": "writing"},
+              {"char": "尝", "type": "writing"},
+              {"char": "香", "type": "writing"},
+              {"char": "甜", "type": "writing"},
+              {"char": "温", "type": "writing"},
+              {"char": "该", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 9,
+            "title": "夜色",
+            "characters": [
+              {"char": "色", "type": "writing"},
+              {"char": "外", "type": "writing"},
+              {"char": "看", "type": "writing"},
+              {"char": "爸", "type": "writing"},
+              {"char": "晚", "type": "writing"},
+              {"char": "笑", "type": "writing"},
+              {"char": "再", "type": "writing"},
+              {"char": "胆", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 10,
+            "title": "端午粽",
+            "characters": [
+              {"char": "午", "type": "writing"},
+              {"char": "节", "type": "writing"},
+              {"char": "叶", "type": "writing"},
+              {"char": "米", "type": "writing"},
+              {"char": "真", "type": "writing"},
+              {"char": "分", "type": "writing"},
+              {"char": "豆", "type": "writing"},
+              {"char": "肉", "type": "writing"},
+              {"char": "带", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 11,
+            "title": "彩虹",
+            "characters": [
+              {"char": "虹", "type": "writing"},
+              {"char": "座", "type": "writing"},
+              {"char": "浇", "type": "writing"},
+              {"char": "提", "type": "writing"},
+              {"char": "洒", "type": "writing"},
+              {"char": "挑", "type": "writing"},
+              {"char": "兴", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 12,
+            "title": "古诗二首（池上 / 小池）",
+            "characters": [
+              {"char": "首", "type": "writing"},
+              {"char": "踪", "type": "writing"},
+              {"char": "迹", "type": "writing"},
+              {"char": "浮", "type": "writing"},
+              {"char": "萍", "type": "writing"},
+              {"char": "泉", "type": "writing"},
+              {"char": "流", "type": "writing"},
+              {"char": "爱", "type": "writing"},
+              {"char": "柔", "type": "writing"},
+              {"char": "荷", "type": "writing"},
+              {"char": "露", "type": "writing"},
+              {"char": "角", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 13,
+            "title": "荷叶圆圆",
+            "characters": [
+              {"char": "亮", "type": "writing"},
+              {"char": "机", "type": "writing"},
+              {"char": "台", "type": "writing"},
+              {"char": "放", "type": "writing"},
+              {"char": "鱼", "type": "writing"},
+              {"char": "朵", "type": "writing"},
+              {"char": "美", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 14,
+            "title": "要下雨了",
+            "characters": [
+              {"char": "直", "type": "writing"},
+              {"char": "呀", "type": "writing"},
+              {"char": "边", "type": "writing"},
+              {"char": "呢", "type": "writing"},
+              {"char": "吗", "type": "writing"},
+              {"char": "吧", "type": "writing"},
+              {"char": "加", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 15,
+            "title": "文具的家",
+            "characters": [
+              {"char": "文", "type": "writing"},
+              {"char": "次", "type": "writing"},
+              {"char": "找", "type": "writing"},
+              {"char": "平", "type": "writing"},
+              {"char": "办", "type": "writing"},
+              {"char": "让", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 16,
+            "title": "一分钟",
+            "characters": [
+              {"char": "钟", "type": "writing"},
+              {"char": "元", "type": "writing"},
+              {"char": "洗", "type": "writing"},
+              {"char": "共", "type": "writing"},
+              {"char": "已", "type": "writing"},
+              {"char": "经", "type": "writing"},
+              {"char": "坐", "type": "writing"},
+              {"char": "叹", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 17,
+            "title": "动物王国开大会",
+            "characters": [
+              {"char": "物", "type": "writing"},
+              {"char": "虎", "type": "writing"},
+              {"char": "熊", "type": "writing"},
+              {"char": "通", "type": "writing"},
+              {"char": "注", "type": "writing"},
+              {"char": "意", "type": "writing"},
+              {"char": "百", "type": "writing"},
+              {"char": "舌", "type": "writing"},
+              {"char": "鬼", "type": "writing"},
+              {"char": "脸", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 18,
+            "title": "小猴子下山",
+            "characters": [
+              {"char": "猴", "type": "writing"},
+              {"char": "结", "type": "writing"},
+              {"char": "非", "type": "writing"},
+              {"char": "常", "type": "writing"},
+              {"char": "瓜", "type": "writing"},
+              {"char": "空", "type": "writing"},
+              {"char": "往", "type": "writing"},
+              {"char": "进", "type": "writing"},
+              {"char": "块", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 19,
+            "title": "棉花姑娘",
+            "characters": [
+              {"char": "棉", "type": "writing"},
+              {"char": "娘", "type": "writing"},
+              {"char": "治", "type": "writing"},
+              {"char": "燕", "type": "writing"},
+              {"char": "别", "type": "writing"},
+              {"char": "干", "type": "writing"},
+              {"char": "然", "type": "writing"},
+              {"char": "奇", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 20,
+            "title": "咕咚",
+            "characters": [
+              {"char": "吓", "type": "writing"},
+              {"char": "怕", "type": "writing"},
+              {"char": "跟", "type": "writing"},
+              {"char": "家", "type": "writing"},
+              {"char": "羊", "type": "writing"},
+              {"char": "象", "type": "writing"},
+              {"char": "都", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 21,
+            "title": "小壁虎借尾巴",
+            "characters": [
+              {"char": "壁", "type": "writing"},
+              {"char": "墙", "type": "writing"},
+              {"char": "蚊", "type": "writing"},
+              {"char": "咬", "type": "writing"},
+              {"char": "断", "type": "writing"},
+              {"char": "您", "type": "writing"},
+              {"char": "拨", "type": "writing"},
+              {"char": "赶", "type": "writing"},
+              {"char": "房", "type": "writing"}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "grade": 2,
+    "terms": [
+      {
+        "term": "上",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "title": "小蝌蚪找妈妈",
+            "characters": [
+              {"char": "两", "type": "writing"},
+              {"char": "哪", "type": "writing"},
+              {"char": "宽", "type": "writing"},
+              {"char": "顶", "type": "writing"},
+              {"char": "眼", "type": "writing"},
+              {"char": "睛", "type": "writing"},
+              {"char": "肚", "type": "writing"},
+              {"char": "皮", "type": "writing"},
+              {"char": "孩", "type": "writing"},
+              {"char": "跳", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 2,
+            "title": "我是什么",
+            "characters": [
+              {"char": "晒", "type": "writing"},
+              {"char": "极", "type": "writing"},
+              {"char": "傍", "type": "writing"},
+              {"char": "越", "type": "writing"},
+              {"char": "滴", "type": "writing"},
+              {"char": "溪", "type": "writing"},
+              {"char": "奔", "type": "writing"},
+              {"char": "洋", "type": "writing"},
+              {"char": "坏", "type": "writing"},
+              {"char": "灾", "type": "writing"},
+              {"char": "猜", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 3,
+            "title": "植物妈妈有办法",
+            "characters": [
+              {"char": "法", "type": "writing"},
+              {"char": "如", "type": "writing"},
+              {"char": "脚", "type": "writing"},
+              {"char": "它", "type": "writing"},
+              {"char": "娃", "type": "writing"},
+              {"char": "她", "type": "writing"},
+              {"char": "毛", "type": "writing"},
+              {"char": "更", "type": "writing"},
+              {"char": "知", "type": "writing"},
+              {"char": "识", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 4,
+            "title": "曹冲称象",
+            "characters": [
+              {"char": "称", "type": "writing"},
+              {"char": "柱", "type": "writing"},
+              {"char": "底", "type": "writing"},
+              {"char": "杆", "type": "writing"},
+              {"char": "秤", "type": "writing"},
+              {"char": "做", "type": "writing"},
+              {"char": "岁", "type": "writing"},
+              {"char": "站", "type": "writing"},
+              {"char": "船", "type": "writing"},
+              {"char": "然", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 5,
+            "title": "玲玲的画",
+            "characters": [
+              {"char": "画", "type": "writing"},
+              {"char": "幅", "type": "writing"},
+              {"char": "评", "type": "writing"},
+              {"char": "奖", "type": "writing"},
+              {"char": "纸", "type": "writing"},
+              {"char": "报", "type": "writing"},
+              {"char": "另", "type": "writing"},
+              {"char": "及", "type": "writing"},
+              {"char": "拿", "type": "writing"},
+              {"char": "并", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 6,
+            "title": "一封信",
+            "characters": [
+              {"char": "封", "type": "writing"},
+              {"char": "信", "type": "writing"},
+              {"char": "今", "type": "writing"},
+              {"char": "支", "type": "writing"},
+              {"char": "圆", "type": "writing"},
+              {"char": "珠", "type": "writing"},
+              {"char": "笔", "type": "writing"},
+              {"char": "灯", "type": "writing"},
+              {"char": "句", "type": "writing"},
+              {"char": "电", "type": "writing"},
+              {"char": "影", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 7,
+            "title": "妈妈睡了",
+            "characters": [
+              {"char": "哄", "type": "writing"},
+              {"char": "先", "type": "writing"},
+              {"char": "闭", "type": "writing"},
+              {"char": "脸", "type": "writing"},
+              {"char": "沉", "type": "writing"},
+              {"char": "发", "type": "writing"},
+              {"char": "窗", "type": "writing"},
+              {"char": "沙", "type": "writing"},
+              {"char": "亮", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 8,
+            "title": "古诗二首",
+            "characters": [
+              {"char": "危", "type": "recognition"},
+              {"char": "敢", "type": "recognition"},
+              {"char": "惊", "type": "writing"},
+              {"char": "阴", "type": "writing"},
+              {"char": "似", "type": "writing"},
+              {"char": "野", "type": "writing"},
+              {"char": "苍", "type": "recognition"},
+              {"char": "茫", "type": "recognition"}
+            ]
+          },
+          {
+            "lesson_number": 9,
+            "title": "黄山奇石",
+            "characters": [
+              {"char": "南", "type": "writing"},
+              {"char": "部", "type": "writing"},
+              {"char": "些", "type": "writing"},
+              {"char": "巨", "type": "writing"},
+              {"char": "位", "type": "writing"},
+              {"char": "每", "type": "writing"},
+              {"char": "升", "type": "writing"},
+              {"char": "闪", "type": "writing"},
+              {"char": "狗", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 10,
+            "title": "日月潭",
+            "characters": [
+              {"char": "名", "type": "writing"},
+              {"char": "胜", "type": "writing"},
+              {"char": "迹", "type": "writing"},
+              {"char": "央", "type": "writing"},
+              {"char": "丽", "type": "writing"},
+              {"char": "展", "type": "writing"},
+              {"char": "现", "type": "writing"},
+              {"char": "披", "type": "writing"},
+              {"char": "湾", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 11,
+            "title": "葡萄沟",
+            "characters": [
+              {"char": "产", "type": "writing"},
+              {"char": "份", "type": "writing"},
+              {"char": "枝", "type": "writing"},
+              {"char": "客", "type": "writing"},
+              {"char": "老", "type": "writing"},
+              {"char": "收", "type": "writing"},
+              {"char": "市", "type": "writing"},
+              {"char": "坡", "type": "writing"},
+              {"char": "搭", "type": "writing"},
+              {"char": "淡", "type": "writing"},
+              {"char": "够", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 12,
+            "title": "坐井观天",
+            "characters": [
+              {"char": "井", "type": "writing"},
+              {"char": "观", "type": "writing"},
+              {"char": "沿", "type": "writing"},
+              {"char": "答", "type": "writing"},
+              {"char": "渴", "type": "writing"},
+              {"char": "喝", "type": "writing"},
+              {"char": "话", "type": "writing"},
+              {"char": "际", "type": "writing"},
+              {"char": "抬", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 13,
+            "title": "寒号鸟",
+            "characters": [
+              {"char": "面", "type": "writing"},
+              {"char": "阵", "type": "writing"},
+              {"char": "朗", "type": "writing"},
+              {"char": "枯", "type": "writing"},
+              {"char": "却", "type": "writing"},
+              {"char": "将", "type": "writing"},
+              {"char": "纷", "type": "writing"},
+              {"char": "夜", "type": "writing"},
+              {"char": "复", "type": "writing"},
+              {"char": "邻", "type": "writing"},
+              {"char": "治", "type": "writing"},
+              {"char": "怪", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 14,
+            "title": "我要的是葫芦",
+            "characters": [
+              {"char": "棵", "type": "writing"},
+              {"char": "谢", "type": "writing"},
+              {"char": "想", "type": "writing"},
+              {"char": "盯", "type": "writing"},
+              {"char": "言", "type": "writing"},
+              {"char": "邻", "type": "writing"},
+              {"char": "治", "type": "writing"},
+              {"char": "怪", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 15,
+            "title": "大禹治水",
+            "characters": [
+              {"char": "洪", "type": "writing"},
+              {"char": "灾", "type": "writing"},
+              {"char": "难", "type": "writing"},
+              {"char": "道", "type": "writing"},
+              {"char": "认", "type": "writing"},
+              {"char": "被", "type": "writing"},
+              {"char": "业", "type": "writing"},
+              {"char": "产", "type": "writing"},
+              {"char": "伟", "type": "writing"},
+              {"char": "志", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 16,
+            "title": "朱德的扁担",
+            "characters": [
+              {"char": "扁", "type": "writing"},
+              {"char": "担", "type": "writing"},
+              {"char": "志", "type": "writing"},
+              {"char": "伍", "type": "writing"},
+              {"char": "师", "type": "writing"},
+              {"char": "军", "type": "writing"},
+              {"char": "战", "type": "writing"},
+              {"char": "士", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 17,
+            "title": "难忘的泼水节",
+            "characters": [
+              {"char": "忘", "type": "writing"},
+              {"char": "泼", "type": "writing"},
+              {"char": "度", "type": "writing"},
+              {"char": "龙", "type": "writing"},
+              {"char": "炮", "type": "writing"},
+              {"char": "穿", "type": "writing"},
+              {"char": "向", "type": "writing"},
+              {"char": "令", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 18,
+            "title": "古诗二首（登鹳雀楼 / 望庐山瀑布）",
+            "characters": [
+              {"char": "楼", "type": "writing"},
+              {"char": "依", "type": "recognition"},
+              {"char": "尽", "type": "writing"},
+              {"char": "黄", "type": "writing"},
+              {"char": "层", "type": "writing"},
+              {"char": "照", "type": "writing"},
+              {"char": "炉", "type": "writing"},
+              {"char": "烟", "type": "writing"},
+              {"char": "挂", "type": "writing"},
+              {"char": "川", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 19,
+            "title": "雾在哪里",
+            "characters": [
+              {"char": "于", "type": "writing"},
+              {"char": "论", "type": "writing"},
+              {"char": "岸", "type": "writing"},
+              {"char": "屋", "type": "writing"},
+              {"char": "切", "type": "writing"},
+              {"char": "久", "type": "writing"},
+              {"char": "散", "type": "writing"},
+              {"char": "步", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 20,
+            "title": "雪孩子",
+            "characters": [
+              {"char": "唱", "type": "writing"},
+              {"char": "赶", "type": "writing"},
+              {"char": "旺", "type": "writing"},
+              {"char": "旁", "type": "writing"},
+              {"char": "浑", "type": "writing"},
+              {"char": "谁", "type": "writing"},
+              {"char": "轻", "type": "writing"},
+              {"char": "汽", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 21,
+            "title": "狐假虎威",
+            "characters": [
+              {"char": "食", "type": "writing"},
+              {"char": "物", "type": "writing"},
+              {"char": "爷", "type": "writing"},
+              {"char": "就", "type": "writing"},
+              {"char": "爪", "type": "writing"},
+              {"char": "神", "type": "writing"},
+              {"char": "活", "type": "writing"},
+              {"char": "猪", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 22,
+            "title": "狐狸分奶酪",
+            "characters": [
+              {"char": "奶", "type": "writing"},
+              {"char": "始", "type": "writing"},
+              {"char": "吵", "type": "writing"},
+              {"char": "仔", "type": "writing"},
+              {"char": "急", "type": "writing"},
+              {"char": "咬", "type": "writing"},
+              {"char": "第", "type": "writing"},
+              {"char": "公", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 23,
+            "title": "纸船和风筝",
+            "characters": [
+              {"char": "折", "type": "writing"},
+              {"char": "纸", "type": "writing"},
+              {"char": "张", "type": "writing"},
+              {"char": "祝", "type": "writing"},
+              {"char": "扎", "type": "writing"},
+              {"char": "抓", "type": "writing"},
+              {"char": "但", "type": "writing"},
+              {"char": "哭", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 24,
+            "title": "风娃娃",
+            "characters": [
+              {"char": "车", "type": "writing"},
+              {"char": "得", "type": "writing"},
+              {"char": "秧", "type": "writing"},
+              {"char": "苗", "type": "writing"},
+              {"char": "汗", "type": "writing"},
+              {"char": "场", "type": "writing"},
+              {"char": "伤", "type": "writing"},
+              {"char": "路", "type": "writing"}
+            ]
+          }
+        ]
+      },
+      {
+        "term": "下",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "title": "古诗二首（村居 / 咏柳）",
+            "characters": [
+              {"char": "诗", "type": "writing"},
+              {"char": "村", "type": "writing"},
+              {"char": "童", "type": "writing"},
+              {"char": "趁", "type": "writing"},
+              {"char": "碧", "type": "writing"},
+              {"char": "妆", "type": "writing"},
+              {"char": "绿", "type": "writing"},
+              {"char": "丝", "type": "writing"},
+              {"char": "剪", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 2,
+            "title": "找春天",
+            "characters": [
+              {"char": "冲", "type": "writing"},
+              {"char": "寻", "type": "writing"},
+              {"char": "姑", "type": "writing"},
+              {"char": "娘", "type": "writing"},
+              {"char": "吐", "type": "writing"},
+              {"char": "柳", "type": "writing"},
+              {"char": "荡", "type": "writing"},
+              {"char": "桃", "type": "writing"},
+              {"char": "杏", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 3,
+            "title": "开满鲜花的小路",
+            "characters": [
+              {"char": "鲜", "type": "writing"},
+              {"char": "邮", "type": "writing"},
+              {"char": "递", "type": "writing"},
+              {"char": "员", "type": "writing"},
+              {"char": "原", "type": "writing"},
+              {"char": "叔", "type": "writing"},
+              {"char": "局", "type": "writing"},
+              {"char": "堆", "type": "writing"},
+              {"char": "认", "type": "writing"},
+              {"char": "礼", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 4,
+            "title": "邓小平爷爷植树",
+            "characters": [
+              {"char": "邓", "type": "writing"},
+              {"char": "植", "type": "writing"},
+              {"char": "格", "type": "writing"},
+              {"char": "引", "type": "writing"},
+              {"char": "注", "type": "writing"},
+              {"char": "满", "type": "writing"},
+              {"char": "休", "type": "writing"},
+              {"char": "息", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 5,
+            "title": "雷锋叔叔，你在哪里",
+            "characters": [
+              {"char": "锋", "type": "writing"},
+              {"char": "昨", "type": "writing"},
+              {"char": "冒", "type": "writing"},
+              {"char": "留", "type": "writing"},
+              {"char": "弯", "type": "writing"},
+              {"char": "背", "type": "writing"},
+              {"char": "洒", "type": "writing"},
+              {"char": "温", "type": "writing"},
+              {"char": "暖", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 6,
+            "title": "千人糕",
+            "characters": [
+              {"char": "能", "type": "writing"},
+              {"char": "桌", "type": "writing"},
+              {"char": "味", "type": "writing"},
+              {"char": "买", "type": "writing"},
+              {"char": "具", "type": "writing"},
+              {"char": "甘", "type": "writing"},
+              {"char": "甜", "type": "writing"},
+              {"char": "菜", "type": "writing"},
+              {"char": "劳", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 7,
+            "title": "一匹出色的马",
+            "characters": [
+              {"char": "匹", "type": "writing"},
+              {"char": "妹", "type": "writing"},
+              {"char": "波", "type": "writing"},
+              {"char": "纹", "type": "writing"},
+              {"char": "像", "type": "writing"},
+              {"char": "景", "type": "writing"},
+              {"char": "恋", "type": "writing"},
+              {"char": "舍", "type": "writing"},
+              {"char": "求", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 8,
+            "title": "彩色的梦",
+            "characters": [
+              {"char": "彩", "type": "writing"},
+              {"char": "梦", "type": "writing"},
+              {"char": "森", "type": "writing"},
+              {"char": "拉", "type": "writing"},
+              {"char": "结", "type": "writing"},
+              {"char": "苹", "type": "writing"},
+              {"char": "般", "type": "writing"},
+              {"char": "精", "type": "writing"},
+              {"char": "灵", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 9,
+            "title": "枫树上的喜鹊",
+            "characters": [
+              {"char": "伞", "type": "writing"},
+              {"char": "姨", "type": "writing"},
+              {"char": "弟", "type": "writing"},
+              {"char": "便", "type": "writing"},
+              {"char": "教", "type": "writing"},
+              {"char": "游", "type": "writing"},
+              {"char": "戏", "type": "writing"},
+              {"char": "母", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 10,
+            "title": "沙滩上的童话",
+            "characters": [
+              {"char": "周", "type": "writing"},
+              {"char": "围", "type": "writing"},
+              {"char": "补", "type": "writing"},
+              {"char": "充", "type": "writing"},
+              {"char": "药", "type": "writing"},
+              {"char": "合", "type": "writing"},
+              {"char": "死", "type": "writing"},
+              {"char": "记", "type": "writing"},
+              {"char": "攻", "type": "writing"},
+              {"char": "商", "type": "writing"},
+              {"char": "量", "type": "writing"},
+              {"char": "驾", "type": "writing"},
+              {"char": "轰", "type": "writing"},
+              {"char": "炸", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 11,
+            "title": "我是一只小虫子",
+            "characters": [
+              {"char": "屁", "type": "writing"},
+              {"char": "股", "type": "writing"},
+              {"char": "净", "type": "writing"},
+              {"char": "幸", "type": "writing"},
+              {"char": "使", "type": "writing"},
+              {"char": "劲", "type": "writing"},
+              {"char": "颗", "type": "writing"},
+              {"char": "泡", "type": "writing"},
+              {"char": "尿", "type": "writing"},
+              {"char": "醒", "type": "writing"},
+              {"char": "晃", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 12,
+            "title": "寓言二则（亡羊补牢 / 揠苗助长）",
+            "characters": [
+              {"char": "亡", "type": "writing"},
+              {"char": "牢", "type": "writing"},
+              {"char": "钻", "type": "writing"},
+              {"char": "劝", "type": "writing"},
+              {"char": "丢", "type": "writing"},
+              {"char": "告", "type": "writing"},
+              {"char": "筋", "type": "writing"},
+              {"char": "疲", "type": "writing"},
+              {"char": "力", "type": "writing"},
+              {"char": "图", "type": "writing"},
+              {"char": "摆", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 13,
+            "title": "画杨桃",
+            "characters": [
+              {"char": "图", "type": "writing"},
+              {"char": "课", "type": "writing"},
+              {"char": "摆", "type": "writing"},
+              {"char": "座", "type": "writing"},
+              {"char": "交", "type": "writing"},
+              {"char": "哈", "type": "writing"},
+              {"char": "页", "type": "writing"},
+              {"char": "抢", "type": "writing"},
+              {"char": "嘻", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 14,
+            "title": "小马过河",
+            "characters": [
+              {"char": "棚", "type": "writing"},
+              {"char": "驮", "type": "writing"},
+              {"char": "磨", "type": "writing"},
+              {"char": "坊", "type": "writing"},
+              {"char": "挡", "type": "writing"},
+              {"char": "伯", "type": "writing"},
+              {"char": "浅", "type": "writing"},
+              {"char": "刻", "type": "writing"},
+              {"char": "突", "type": "writing"},
+              {"char": "叹", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 15,
+            "title": "古诗二首（晓出净慈寺送林子方 / 绝句）",
+            "characters": [
+              {"char": "湖", "type": "writing"},
+              {"char": "莲", "type": "writing"},
+              {"char": "穷", "type": "writing"},
+              {"char": "荷", "type": "writing"},
+              {"char": "绝", "type": "writing"},
+              {"char": "含", "type": "writing"},
+              {"char": "岭", "type": "writing"},
+              {"char": "吴", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 16,
+            "title": "雷雨",
+            "characters": [
+              {"char": "雷", "type": "writing"},
+              {"char": "乌", "type": "writing"},
+              {"char": "黑", "type": "writing"},
+              {"char": "压", "type": "writing"},
+              {"char": "垂", "type": "writing"},
+              {"char": "户", "type": "writing"},
+              {"char": "新", "type": "writing"},
+              {"char": "迎", "type": "writing"},
+              {"char": "扑", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 17,
+            "title": "要是你在野外迷了路",
+            "characters": [
+              {"char": "指", "type": "writing"},
+              {"char": "针", "type": "writing"},
+              {"char": "帮", "type": "writing"},
+              {"char": "导", "type": "writing"},
+              {"char": "永", "type": "writing"},
+              {"char": "碰", "type": "writing"},
+              {"char": "特", "type": "writing"},
+              {"char": "积", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 18,
+            "title": "太空生活趣",
+            "characters": [
+              {"char": "宇", "type": "writing"},
+              {"char": "宙", "type": "writing"},
+              {"char": "杯", "type": "writing"},
+              {"char": "浴", "type": "writing"},
+              {"char": "室", "type": "writing"},
+              {"char": "箱", "type": "writing"},
+              {"char": "容", "type": "writing"},
+              {"char": "易", "type": "writing"},
+              {"char": "桶", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 19,
+            "title": "大象的耳朵",
+            "characters": [
+              {"char": "扇", "type": "writing"},
+              {"char": "慢", "type": "writing"},
+              {"char": "遇", "type": "writing"},
+              {"char": "兔", "type": "writing"},
+              {"char": "安", "type": "writing"},
+              {"char": "根", "type": "writing"},
+              {"char": "痛", "type": "writing"},
+              {"char": "最", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 20,
+            "title": "蜘蛛开店",
+            "characters": [
+              {"char": "店", "type": "writing"},
+              {"char": "决", "type": "writing"},
+              {"char": "定", "type": "writing"},
+              {"char": "商", "type": "writing"},
+              {"char": "夫", "type": "writing"},
+              {"char": "终", "type": "writing"},
+              {"char": "完", "type": "writing"},
+              {"char": "换", "type": "writing"},
+              {"char": "期", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 21,
+            "title": "青蛙卖泥塘",
+            "characters": [
+              {"char": "蛙", "type": "writing"},
+              {"char": "卖", "type": "writing"},
+              {"char": "搬", "type": "writing"},
+              {"char": "倒", "type": "writing"},
+              {"char": "籽", "type": "writing"},
+              {"char": "泉", "type": "writing"},
+              {"char": "破", "type": "writing"},
+              {"char": "应", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 22,
+            "title": "小毛虫",
+            "characters": [
+              {"char": "昆", "type": "writing"},
+              {"char": "怜", "type": "writing"},
+              {"char": "挪", "type": "writing"},
+              {"char": "仿", "type": "writing"},
+              {"char": "佛", "type": "writing"},
+              {"char": "尽", "type": "writing"},
+              {"char": "任", "type": "writing"},
+              {"char": "何", "type": "writing"},
+              {"char": "纺", "type": "writing"},
+              {"char": "织", "type": "writing"},
+              {"char": "编", "type": "writing"},
+              {"char": "怎", "type": "writing"},
+              {"char": "消", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 23,
+            "title": "祖先的摇篮",
+            "characters": [
+              {"char": "祖", "type": "writing"},
+              {"char": "啊", "type": "writing"},
+              {"char": "浓", "type": "writing"},
+              {"char": "望", "type": "writing"},
+              {"char": "蓝", "type": "writing"},
+              {"char": "摘", "type": "writing"},
+              {"char": "掏", "type": "writing"},
+              {"char": "赛", "type": "writing"},
+              {"char": "忆", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 24,
+            "title": "当世界年纪还小的时候",
+            "characters": [
+              {"char": "世", "type": "writing"},
+              {"char": "界", "type": "writing"},
+              {"char": "功", "type": "writing"},
+              {"char": "反", "type": "writing"},
+              {"char": "复", "type": "writing"},
+              {"char": "式", "type": "writing"},
+              {"char": "简", "type": "writing"},
+              {"char": "弄", "type": "writing"},
+              {"char": "由", "type": "writing"},
+              {"char": "奋", "type": "writing"}
+            ]
+          },
+          {
+            "lesson_number": 25,
+            "title": "羿射九日",
+            "characters": [
+              {"char": "觉", "type": "writing"},
+              {"char": "值", "type": "writing"},
+              {"char": "类", "type": "writing"},
+              {"char": "艰", "type": "writing"},
+              {"char": "弓", "type": "writing"},
+              {"char": "炎", "type": "writing"},
+              {"char": "害", "type": "writing"},
+              {"char": "此", "type": "writing"},
+              {"char": "新", "type": "writing"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
