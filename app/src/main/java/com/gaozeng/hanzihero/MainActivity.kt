@@ -150,9 +150,9 @@ fun HanziApp() {
             text = text,
             onTextChange = { text = it },
             onStartQuiz = {
-                val filteredChars = text.filter { it in '\u4e00'..'\u9fa5' }.toList()
+                val filteredChars = text.filter { it in '\u4e00'..'龥' }.toList()
                 if (filteredChars.isNotEmpty()) {
-                    quizCharacters = filteredChars
+                    quizCharacters = filteredChars.shuffled()
                     currentCharacterIndex = 0
                     isQuizActive = true
                     isQuizComplete = false
